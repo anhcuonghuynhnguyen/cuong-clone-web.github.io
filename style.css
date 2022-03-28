@@ -97,7 +97,8 @@ a:hover {
 }
 
 .button-purple:hover {
-    opacity: 80%;
+    background-color: #f4f4f4;
+    color: #000;
 }
 
 /* Background-intro-about-service */
