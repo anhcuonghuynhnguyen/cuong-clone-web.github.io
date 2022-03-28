@@ -281,15 +281,17 @@ a:hover {
     background-size: cover;
 }
 
-#author > div {
+#author .item-author {
     border: rgb(165, 165, 165) solid 3px;
     border-radius: 20px;
     background-color: transparent;
+    width: 30%;
+    padding: 20px;
 }
 
-#author > div:hover {
+#author .item-author:hover {
     background-color: #ffffff;
-    border: none;
+    border: transparent solid 3px;
 }
 
 #author > div > div {
